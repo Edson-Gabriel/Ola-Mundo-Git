@@ -1,2 +1,3 @@
-# Olá Mundo - git
-Primeiro projeto usando github desktop
+# Olá, Mundo!
+Primeiro projeto usando github desktop.
+Aula 01
